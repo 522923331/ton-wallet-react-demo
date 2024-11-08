@@ -1,0 +1,59 @@
+.send-tx-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+.tx-title{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tx-info{
+    background-color: #f5f5f5;
+    text-align: left;
+    width: 100%;
+}
+.tx-info-item {
+    display: flex;
+    width: 100%;
+}
+
+.send-tx-button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #646cff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+
+}
+
+.tx-hash{
+    color: #646cff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.tx-value{
+    color: #22c55e;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 100%;
+}

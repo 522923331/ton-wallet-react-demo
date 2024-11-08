@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.nal-container{
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: gray;
+  margin: 2em 0;
+  padding: 2em;
+}
+
+.ton-container{
+  width: 100%;
+  background-color: #f5f5f5;
+}
